@@ -6,6 +6,7 @@ int main(void)
 	alg1();
 	alg2();
 	alg3();
+	alg4();
 	return 0;
 }
 
