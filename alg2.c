@@ -1,4 +1,4 @@
-#include "alg1.h"
+#include "alg2.h"
 
 void alg2(void)
 {
